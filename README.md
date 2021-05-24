@@ -1,6 +1,6 @@
 # loans-regression
 
-Predicting the amount of loans for STAT 301-3 Bank Loans Competition. Submitted models include:
+Predicting the amount of loans for the STAT 301-3 Bank Loans Regression Competition. Submitted models include:
 * Boosted Tree model
 * Random Forest model
 
